@@ -27,6 +27,17 @@ body {
 
 }
 
- .bg-success, .bg-danger {
+.bg-success,
+.bg-danger {
     color: white;
+}
+
+.width-100 {
+    width: 100%;
+}
+
+.button-row{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
 }
